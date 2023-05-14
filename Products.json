@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Teclado Philips G401",
+        "description": "Teclado mecanico ergonomico con 104 teclas retroiluminado. Diseño resistente al agua para limpieza y derrames ocasionales.",
+        "code": "001",
+        "price": 22384,
+        "status": true,
+        "stock": 4,
+        "category": "mecanico",
+        "thumbnail": "../imagen.png"
+    },
+    {
+        "id": 2,
+        "title": "Teclado RedDragon K512 Shiva",
+        "description": "Teclado de membrana con rgb full size",
+        "code": "002",
+        "price": 22384,
+        "status": true,
+        "stock": 10,
+        "category": "membrana",
+        "thumbnail": "../imagen.png"
+    },
+    {
+        "id": 3,
+        "title": "Teclado Patriot Viper V730",
+        "description": "Teclado mecanico rgb con 104 teclas anti-ghosting",
+        "code": "003",
+        "price": 31984,
+        "status": true,
+        "stock": 6,
+        "category": "mecanico",
+        "thumbnail": "../imagen.png"
+    },
+    {
+        "id": 4,
+        "title": "Teclado Genesis Thor 303 TKL",
+        "description": "Teclado mecanico (Teclas Brown) con rgb",
+        "code": "004",
+        "price": 33584,
+        "status": true,
+        "stock": 7,
+        "category": "mecanico",
+        "thumbnail": "../imagen.png"
+    }
+]
